@@ -1,0 +1,16 @@
+@media screen and (max-width: 600px) {    
+    body{
+        margin: 0;
+        padding: 0;
+        background: black;
+        color: white;
+    }
+
+    #desktop{
+        display: none;
+    }
+
+
+
+    
+}
